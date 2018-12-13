@@ -3,25 +3,18 @@
 1. [Introduction](#introduction)
 2. [Parts](#parts)
 3. [Assembly](#assembly)
-4. [Power-Up](#power-up)
 5. [Testing](#testing)
-6. [Reproducibility](#reproducibility)
-
-
 
 ## Introduction
 
-https://raw.githubusercontent.com/yasimba/YaBot/master/documentation/robot_sketch_bb.jpg
+![](https://raw.githubusercontent.com/yasimba/YaBot/master/documentation/robot_sketch_bb.jpg)
 
 ## Parts
 
 
 ## Assembly
 
-
-
 Below is the breadboard design:
-
 
 * The quickstart assembly was done in the following way without a breadboard ----->
 
@@ -62,7 +55,6 @@ To solve the wireless control, I configured the Pi to connect headlessly to my r
 ![](https://raw.githubusercontent.com/yasimba/YaBot/master/documentation/14.jpg)
 ![](https://raw.githubusercontent.com/yasimba/YaBot/master/documentation/16.jpg)
 
-## Power-Up
-
 ## Testing
-## Reproducibility
+
+* Run the code in `software/test_code.py`. The robot should now be able to move programmatically
